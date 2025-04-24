@@ -1,0 +1,7 @@
+C:\Diego Heredia\Programacion 2\Recuperatorio1\SistemaDeTransporte\bin\Debug\SistemaDeTransporte.exe.config
+C:\Diego Heredia\Programacion 2\Recuperatorio1\SistemaDeTransporte\bin\Debug\SistemaDeTransporte.exe
+C:\Diego Heredia\Programacion 2\Recuperatorio1\SistemaDeTransporte\bin\Debug\SistemaDeTransporte.pdb
+C:\Diego Heredia\Programacion 2\Recuperatorio1\SistemaDeTransporte\obj\Debug\SistemaDeTransporte.csproj.AssemblyReference.cache
+C:\Diego Heredia\Programacion 2\Recuperatorio1\SistemaDeTransporte\obj\Debug\SistemaDeTransporte.csproj.CoreCompileInputs.cache
+C:\Diego Heredia\Programacion 2\Recuperatorio1\SistemaDeTransporte\obj\Debug\SistemaDeTransporte.exe
+C:\Diego Heredia\Programacion 2\Recuperatorio1\SistemaDeTransporte\obj\Debug\SistemaDeTransporte.pdb
