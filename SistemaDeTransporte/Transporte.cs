@@ -18,6 +18,11 @@ namespace SistemaDeTransporte
             Console.WriteLine("Moviendose");
         }
 
+        public Transporte()
+        {
+
+        }
+
         public string Nombre
         {
             get { return nombre; }

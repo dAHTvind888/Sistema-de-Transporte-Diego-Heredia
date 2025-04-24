@@ -10,9 +10,9 @@ namespace SistemaDeTransporte
     {
         static void Main(string[] args)
         {
-            Auto auto = new Auto("Auto Suzuki", 200, 80);
-            Bicicleta bicicleta = new Bicicleta("Super Bicicleta", 15, 35);
-            Scooter scooter = new Scooter("Small Scooter", 8, 20);
+            Transporte auto = new Auto("Auto Suzuki", 200, 80);
+            Transporte bicicleta = new Bicicleta("Super Bicicleta", 15, 35);
+            Transporte scooter = new Scooter("Small Scooter", 8, 20);
 
             Console.WriteLine("1." + auto.Nombre);
             Console.WriteLine("2." + bicicleta.Nombre);
